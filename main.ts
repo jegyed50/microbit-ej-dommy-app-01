@@ -1,7 +1,7 @@
 input.onButtonPressed(Button.A, function () {
 	
 })
-led.setBrightness(25)
+led.setBrightness(26)
 music.setVolume(255)
 led.toggle(2, 2)
 let hangerő = 10
